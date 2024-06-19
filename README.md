@@ -1,4 +1,3 @@
-<h3 align="left">Connect with me:</h3>
 <h1 align="center">Hi 👋, I'm Cesar Sobrino</h1>
 <h3>Im FullStack Developer</h3>
 
